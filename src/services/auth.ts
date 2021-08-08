@@ -3,7 +3,7 @@ export default function apiSignIn() {
   return new Promise(resolve => {
     setTimeout(() => {
       resolve({
-        token: '',
+        token: 'qw4u092rq8wicjfqnt9',
         user: {
           name: 'Richard',
           email: 'richard.v.s.netto@gmail.com',
